@@ -2,7 +2,7 @@
 
 # Intergalactic Mesh Coalition (IMC)
 
-Welcome to the Intergalactic Mesh Coalition (IMC) - a pioneering alliance dedicated to establishing a seamless network infrastructure spanning across multiple galaxies.
+Welcome to the Intergalactic Mesh Coalition (IMC) - a pioneering alliance dedicated to establishing a seamless network infrastructure spanning across multiple galaxies. With a focus on decentralized connectivity and collaboration, IMC endeavors to unite civilizations from distant corners of the cosmos, fostering exchange, innovation, and mutual prosperity across the expanse of the universe.
 
 ## About Us
 
